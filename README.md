@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="GitHub Banner" width="1600" height="305">
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="GitHub Banner" width="1600" height="300">
 
 # 💫 About Me:
 🔭 I’m a Student<br>🌱 Learning and Acquiring Skills<br>💬 Idle, Day-Dreaming, Reverie<br>⚡ Delusional
