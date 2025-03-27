@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="GitHub Banner" width="1600" height="300">
 
 # 💫 About Me:
-🔭 I'm a Student<br>🌱 Learning and Acquiring New Skills<br>💬 Delusional<br>⚡ Grinding
+🔭 I'm a Student/Fresher<br>🌱 Learning and Acquiring New Skills<br>💬 Delusional<br>⚡ Grinding
 
 
 ## 🌐 Socials:
